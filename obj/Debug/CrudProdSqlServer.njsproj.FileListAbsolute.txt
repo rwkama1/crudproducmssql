@@ -1,3 +1,0 @@
-C:\Users\Waldemar\Desktop\Node Javascript\CrudProdSqlServer\CrudProdSqlServer\obj\Debug\CrudProdSqlServer.njsprojAssemblyReference.cache
-C:\Users\Waldemar\Desktop\Node Javascript\CrudProdSqlServer\CrudProdSqlServer\obj\Debug\CrudProdSqlServer.njsproj.CoreCompileInputs.cache
-C:\Users\Waldemar\Desktop\Node Javascript\CrudProdSqlServer\CrudProdSqlServer\bin\Microsoft.NodejsTools.WebRole.dll

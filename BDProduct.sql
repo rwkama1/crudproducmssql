@@ -34,7 +34,7 @@ insert into Producto values ('teclado.jpg')
 insert into Producto values ('tv.jpg')
 insert into Producto values ('xbox.jpg')
 
- select * from producto
+ --select * from producto
  --select * from producto where IdProducto=2
  --drop table Producto
 --Update Producto Set  ImgProducto='sdf.jpg' where IdProducto=12
