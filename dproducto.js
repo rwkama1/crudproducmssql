@@ -1,5 +1,6 @@
 const connection  = require('./dbsqlserver')
-const Producto  = require('./product')
+const Producto = require('./product')
+
 async function getProducts() {
     querylist = "select * from Producto"
     try {
@@ -86,6 +87,7 @@ async function deleteProduct(product) {
         return error.message;
     }
 }
+module.exports = { getProducts,getProduct,insertProduct,updateProduct,deleteProduct };
 //var producto = new Producto.Producto(15, 'dsg.jpg')
 
 //insertProduct(producto).then(data => {
