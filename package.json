@@ -1,0 +1,20 @@
+{
+  "name": "crudproductimagesqlserver",
+  "version": "0.0.2",
+  "description": "Crud Product with image with MSSQL",
+  "main": "dproducto.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dproducto"
+  },
+  "author": {
+    "name": "Carlos Rodriguez"
+  },
+  "repository": {
+    "url": "https://github.com/rwkama/crudproducmssql.git"
+  },
+  "dependencies": {
+    "msnodesqlv8": "^2.0.5",
+    "mssql": "^6.2.3"
+  }
+}
