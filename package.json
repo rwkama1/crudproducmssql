@@ -1,6 +1,6 @@
 {
   "name": "crudproductimagesqlserver",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "Crud Product with image with MSSQL",
   "main": "dproducto.js",
   "license": "MIT",
@@ -14,7 +14,6 @@
     "url": "https://github.com/rwkama/crudproducmssql.git"
   },
   "dependencies": {
-    "msnodesqlv8": "^2.0.5",
-    "mssql": "^6.2.3"
+    "mssql": "6.2.3"
   }
 }

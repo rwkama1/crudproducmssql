@@ -105,3 +105,4 @@ module.exports = { getProducts,getProduct,insertProduct,updateProduct,deleteProd
 //getProduct(5).then(data => {
 //    console.log(data)
 //})
+////}
