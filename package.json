@@ -13,6 +13,7 @@
   "repository": {
     "url": "https://github.com/rwkama/crudproducmssql.git"
   },
+ "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "mssql": "6.2.3"
   }
